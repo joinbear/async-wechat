@@ -1,0 +1,23 @@
+{
+  "name": "grouth-wechat",
+  "version": "1.0.0",
+  "description": "wechat and wechat-enterprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "qiaoni",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "superagent": "^3.8.0",
+    "xml2json": "^0.11.0"
+  },
+  "devDependencies": {
+    "ioredis": "^3.2.1",
+    "koa-router": "^7.2.1",
+    "mocha": "^4.0.1",
+    "should": "^13.1.3",
+    "supertest": "^3.0.0"
+  }
+}
