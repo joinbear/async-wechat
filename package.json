@@ -1,6 +1,6 @@
 {
   "name": "async-wechat",
-  "version": "1.0.1",
+  "version": "1.2.3",
   "description": "wechat and wechat-enterprise",
   "main": "index.js",
   "scripts": {
